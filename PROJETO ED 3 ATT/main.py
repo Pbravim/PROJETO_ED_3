@@ -3,12 +3,6 @@ from binarytreeavl import AVL_Tree
 
 tree = AVL_Tree()
 root = None
-30,40,10,25,15
-root = tree.add(root,30,"nome_mus",123,"album")
-root = tree.add(root,40,"nome_mus",123,"album")
-root = tree.add(root,10,"nome_mus",123,"album")
-root = tree.add(root,25,"nome_mus",132,"album")
-root = tree.add(root,15,"nome_mus",123,"album")
 
 resposta = 0
 lista_resposta = [1,2,3,4,5,6,7]
